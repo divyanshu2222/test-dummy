@@ -7,3 +7,5 @@ This new local commit
 another new local commit
 <br>
 hi from github
+
+manual commit from github
